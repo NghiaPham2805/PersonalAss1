@@ -1,0 +1,15 @@
+PR001|Residential|123 Elm St|1200.0|Available|P003|
+PR002|Commercial|456 Main St|3000.0|Rented|P005|
+PR003|Residential|789 Oak St|1500.0|Under Maintenance|P013|
+PR004|Residential|101 Maple St|1300.0|Available|P014|
+PR005|Commercial|202 Pine St|3200.0|Rented|P017|
+PR006|Residential|303 Cedar St|1400.0|Available|P019|
+PR007|Commercial|404 Birch St|3100.0|Rented|P021|
+PR008|Residential|505 Walnut St|1250.0|Available|P023|
+PR009|Commercial|606 Chestnut St|3300.0|Rented|P026|
+PR010|Residential|707 Spruce St|1350.0|Available|P030|
+PR011|Commercial|808 Fir St|3400.0|Rented|P031|
+PR012|Residential|909 Ash St|1450.0|Available|P035|
+PR013|Commercial|1010 Poplar St|3500.0|Rented|P038|
+PR014|Residential|1111 Willow St|1500.0|Available|P039|
+PR015|Commercial|1212 Redwood St|3600.0|Rented|P043|
